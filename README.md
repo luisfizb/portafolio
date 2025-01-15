@@ -1,9 +1,9 @@
-#Data Scientist
+# Data Scientist
 
-###Education
+### Education
 Industrial Engineering
 
-##Work Experience
+## Work Experience
 Data Analyst @Nissan
 - big impact project 1
 - big impact
