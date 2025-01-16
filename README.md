@@ -30,7 +30,7 @@ Data Analytics Assistant @Ernst & Young
 ## Projects
 
 -Project1: Personal Finance Analyzer
--Project2: <ul><li>[Predicting Credit Card Default](https://github.com/likhitha-dhanaraju/churn-prediction)</li></ul>   
+-Project2: <ul><li>[Predicting Credit Card Default](https://github.com/luisfizb/default_credit_card)</li></ul>   
 -Project2: Analysing Marketing Performance
 -Project3: 
   
