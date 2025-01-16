@@ -1,4 +1,5 @@
-# Data Analyst
+# LUIS
+**Data Analyst**
 
 ## Education
 - Msc in Data Analytics and Artificial Intelligence - EDHEC BUSINESS School
@@ -29,6 +30,7 @@ Data Analytics Assistant @Ernst & Young
 ## Projects
 
 -Project1: Personal Finance Analyzer
+-Project2: <ul><li>[Predicting Credit Card Default](https://github.com/likhitha-dhanaraju/churn-prediction)</li></ul>   
 -Project2: Analysing Marketing Performance
 -Project3: 
   
